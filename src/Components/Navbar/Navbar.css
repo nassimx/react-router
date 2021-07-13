@@ -1,0 +1,11 @@
+.menu {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  height: 80px;
+  align-items: center;
+}
